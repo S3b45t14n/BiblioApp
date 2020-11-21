@@ -1,7 +1,7 @@
 # BiblioApp
-## Proyecto del Semestre.
+Proyecto del Semestre.
 
-## *Integrantes
+*Integrantes
 Andres Santiago Castellanos
 Juan Sebastian Jaramillo
 
